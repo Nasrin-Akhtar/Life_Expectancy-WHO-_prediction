@@ -6,4 +6,4 @@ Life expectancy refers to the average number of years a person can expect to liv
  1. Download the given dataset
  2. Run the notebook
     ~ For better understanding about Univariate, Bivariate Analysis, various Machine Learning models and their hyperparameter tunning for better result.
-# Happy_Learning :)
+
