@@ -1,1 +1,2 @@
 # Life_Expectancy-WHO-_prediction
+Life expectancy refers to the average number of years a person can expect to live, given current mortality rates and other relevant factors. It is often used as a statistical measure to assess the overall health and longevity of a population. Life expectancy can vary significantly from one country to another and is influenced by factors such as healthcare, lifestyle, genetics, and socioeconomic conditions.
